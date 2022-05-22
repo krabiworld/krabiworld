@@ -1,7 +1,7 @@
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,html,md,vue,bootstrap,bots,git,github,idea,androidstudio,heroku,figma,firebase,postgres,linux" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,cs,spring,html,css,md,vue,bootstrap,bots,git,github,idea,androidstudio,heroku,figma,firebase,postgres,linux&perline=8" />
   </a>
 </p>
 
