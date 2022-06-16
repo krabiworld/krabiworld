@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h1 align="center"><a href="https://headcrabj.github.io/">References</a></h1>
+<h1 align="center"><a href="https://headcrabj.github.io/" target="_blank">References</a></h1>
 <p align="center">
   <a href="https://discord.com/users/873180556018450512">
     <img src="https://skillicons.dev/icons?i=discord" />
