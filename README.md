@@ -19,10 +19,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10" />
   </a>
 </p>
-
-<h1 align="center"><a href="https://headcrabj.github.io/">References</a></h1>
-<p align="center">
-  <a href="https://discord.com/users/873180556018450512">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-</p>
