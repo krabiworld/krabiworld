@@ -8,14 +8,14 @@
 <h1 align="center">Stats</h1>
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=HeadcrabJ&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=thedanielj&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=HeadcrabJ&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thedanielj&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark" />
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedanielj&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10" />
   </a>
 </p>
