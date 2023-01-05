@@ -11,3 +11,8 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&layout=compact&theme=github_dark&langs_count=10" />
 </p>
+
+<h1 align="center">Contact with me</h1>
+<p align="center">
+  <a href="https://t.me/headcrabj">Telegram</a>
+</p>
