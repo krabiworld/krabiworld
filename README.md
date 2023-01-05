@@ -1,6 +1,6 @@
 <h1 align="center">Skills</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,go,py,js,ts,nodejs,bash,powershell,spring,ktor,nestjs,fastapi,qt,nginx,hibernate,gradle,maven,vite,html,css,md,svg,react,nextjs,vue,materialui,bootstrap,bots,git,github,idea,androidstudio,visualstudio,vscode,autocad,heroku,vercel,figma,firebase,supabase,mongodb,mysql,postgres,sqlite,redis,linux,docker,wordpress,ps,ai&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,go,py,js,ts,spring,ktor,nestjs,fastapi,nginx,hibernate,gradle,maven,vite,html,css,react,nextjs,vue,materialui,bootstrap,git,heroku,vercel,firebase,mongodb,mysql,postgres,sqlite,redis,docker,wordpress&perline=8" />
 </p>
 
 <h1 align="center">Stats</h1>
