@@ -21,11 +21,11 @@
 
 <h1 align="center">Stats</h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HeadcrabJ&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HeadcrabJ&theme=github-dark-blue&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=HeadcrabJ&show_icons=true&count_private=true&hide_border=false&hide_title=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeadcrabJ&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&layout=compact&theme=github_dark&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10" />
 </p>
 
 <h1 align="center">Contact with me</h1>
