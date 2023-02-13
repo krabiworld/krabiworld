@@ -25,7 +25,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=HeadcrabJ&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10&hide=html,css,svelte,dockerfile,shell,batchfile" />
 </p>
 
 <h1 align="center">Contact with me</h1>
