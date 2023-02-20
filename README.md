@@ -7,7 +7,7 @@
 
 - [Eclipse](https://github.com/Night-Devs) - Multipurpose Discord bot written in JavaScript and discord.js
     - [EclipseAndroid](https://github.com/Night-Devs/EclipseAndroid) - Dashboard on Android written in Kotlin
-- Knight - Chess social network
+- [Knight](https://github.com/knight-chess) - Chess social network
     - [knight](https://github.com/HeadcrabJ/knight) - Backend written in Kotlin and Ktor
     - [knight-nest](https://github.com/HeadcrabJ/knight-nest) - Rewritten backend in TypeScript and Nest.js
     - [knight-ui](https://github.com/HeadcrabJ/knight-ui) - Frontend written in JavaScript and Svelte by [MineEjo](https://github.com/MineEjo)
