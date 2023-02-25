@@ -1,6 +1,6 @@
 <h1 align="center">Skills</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,go,py,js,ts,spring,ktor,nestjs,fastapi,nginx,hibernate,gradle,maven,vite,react,nextjs,vue,materialui,bootstrap,git,heroku,vercel,firebase,mongodb,mysql,postgres,sqlite,redis,docker,wordpress&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,go,js,ts,spring,ktor,nestjs,nginx,hibernate,gradle,maven,vite,react,vue,git,vercel,firebase,mongodb,mysql,postgres,sqlite,docker&perline=8" />
 </p>
 
 <h1 align="center">Projects</h1>
