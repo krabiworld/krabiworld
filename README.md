@@ -15,7 +15,6 @@
     - [Module-Web](https://github.com/HeadcrabJ/Module-Web) - Frontend written in Vue.js and Vuetify
 - [HCWeb](https://github.com/HeadcrabJ/HCWeb) - Blog with account management and admin panel written in Java and Spring
 - [HCWeb.NET](https://github.com/HeadcrabJ/HCWeb.NET) - Rewritten HCWeb blog in C# and ASP.NET
-- [Avi](https://github.com/MineEjo/avi) - Unfinished IntelliJ IDEA plugin by [MineEjo](https://github.com/MineEjo)
 
 <h1 align="center">Stats</h1>
 <p align="center">
