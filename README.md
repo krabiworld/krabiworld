@@ -14,9 +14,7 @@
 - [Module](https://github.com/HeadcrabJ/Module) - Multipurpose Discord bot written in Java and JDA
     - [Module-Web](https://github.com/HeadcrabJ/Module-Web) - Frontend written in Vue.js and Vuetify
 - [HCWeb](https://github.com/HeadcrabJ/HCWeb) - Blog with account management and admin panel written in Java and Spring
-- [SEdit](https://github.com/HeadcrabJ/SEdit) - Simple code editor written in C# and WPF with library AvalonEdit
-- [WinTheme](https://github.com/HeadcrabJ/WinTheme) - Theme changer for unactivated Windows written in C# and WPF
-- [RefBound](https://github.com/HeadcrabJ/refbound) - Simple link shortener written in Kotlin and Ktor
+- [HCWeb.NET](https://github.com/HeadcrabJ/HCWeb.NET) - Rewritten HCWeb blon in C# and ASP.NET
 - [Avi](https://github.com/MineEjo/avi) - Unfinished IntelliJ IDEA plugin by [MineEjo](https://github.com/MineEjo)
 
 <h1 align="center">Stats</h1>
