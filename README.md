@@ -1,6 +1,13 @@
+<h1 align="center">About me</h1>
+<p align="center">
+I'm a young software engineer. Develop high-load services in Golang. Analysis and optimizing code.
+</p>
+
 <h1 align="center">Skills</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,go,js,ts,spring,ktor,nestjs,hibernate,react,vue,git,mysql,postgres,docker&perline=8" />
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,cs,go,js,ts,spring,ktor,nestjs,hibernate,react,vue,git,mysql,postgres,docker&perline=8" />
+  </a>
 </p>
 
 <h1 align="center">Projects</h1>
@@ -18,11 +25,15 @@
 
 <h1 align="center">Stats</h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HeadcrabJ&theme=github-dark-blue&hide_border=true" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=HeadcrabJ&theme=github-dark-blue&hide_border=true" />
+  </a>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=HeadcrabJ&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10&hide=html,css,svelte,dockerfile,shell,batchfile,javascript" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=HeadcrabJ&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadcrabJ&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10&hide=html,css,svelte,dockerfile,shell,batchfile,javascript" />
+  </a>
 </p>
 
 <h1 align="center">Contact with me</h1>
