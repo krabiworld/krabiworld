@@ -40,8 +40,4 @@ Hi, my name is Danil (dajeo). I'm a young software engineer. Develop high-load s
 <p align="center">
   <a href="https://dajeo.by/">Website</a>
   <a href="https://t.me/dajeo">Telegram</a>
-  <a href="https://gitlab.com/dajeo">GitLab</a>
-  <a href="https://twitter.com/dajeo_danil">Twitter</a>
-  <a href="https://discord.com/users/1090900421284999178">Discord</a>
-  <a href="https://habr.com/en/users/dajeo/">Habr</a>
 </p>
