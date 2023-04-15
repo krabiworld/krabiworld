@@ -36,8 +36,7 @@ Hi, my name is Danil (dajeo). I'm a young software engineer. Develop high-load s
   </a>
 </p>
 
-<h1 align="center">References</h1>
+<h1 align="center">Contact with me</h1>
 <p align="center">
-  <a href="https://dajeo.by/">Website</a>
   <a href="https://t.me/dajeo">Telegram</a>
 </p>
