@@ -32,7 +32,7 @@ Hi, my name is Danil (dajeo). I'm a young software engineer. Develop high-load s
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=dajeo&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dajeo&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10&hide=html,css,svelte,dockerfile,shell,batchfile,dart,scss" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dajeo&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=10&hide=svelte,dart" />
   </a>
 </p>
 
