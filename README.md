@@ -1,6 +1,6 @@
 <h1 align="center">About me</h1>
 <p align="center">
-Hi, my name is Danil (dajeo). I'm a young software engineer. Develop high-load services in Golang. Analysis and optimizing code.
+Hi, my name is Danil (dajeo). I'm a young backend software engineer.
 </p>
 
 <h1 align="center">Skills</h1>
