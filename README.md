@@ -1,6 +1,6 @@
 <h1 align="center">About me</h1>
 <p align="center">
-Hi, my name is Danil (dajeo). I'm a young backend software engineer.
+Hi, my name is Danil (dajeo). I'm a young backend engineer.
 </p>
 
 <h1 align="center">Skills</h1>
