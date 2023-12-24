@@ -6,7 +6,7 @@ Hi, my name is Danil (dajeo). I'm a young backend developer. Develop high-load s
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,cs,go,js,ts,spring,ktor,nestjs,hibernate,react,vue,git,mysql,postgres,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,linux,bash,nginx,git,mysql,postgres,mongo,redis,kubernetes,docker,aws,firebase,cloudflare,github,postman&perline=8" />
   </a>
 </p>
 
