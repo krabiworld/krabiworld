@@ -32,5 +32,5 @@ Hi, my name is Danil (dajeo). I'm a young backend developer. Develop high-load s
 
 <h1 align="center">Contact with me</h1>
 <p align="center">
-  <a href="https://t.me/dajeo">Telegram</a>
+  <a href="https://t.me/krabiworld">Telegram</a>
 </p>
