@@ -18,7 +18,7 @@ Hi, my name is Danil (dajeo). I'm a young backend developer. Develop high-load s
     - [knight](https://github.com/dajeo/knight) - Backend written in Kotlin and Ktor
     - [knight-nest](https://github.com/dajeo/knight-nest) - Rewritten backend in TypeScript and Nest.js
     - [knight-ui](https://github.com/dajeo/knight-ui) - Frontend written in JavaScript and Svelte by [MineEjo](https://github.com/mineejo)
-- [Module](https://github.com/dajeo/Module) - Multipurpose Discord bot written in Java and JDA
+- [Module](https://github.com/dajeo/Module) - Multipurpose Discord bot written in Kotlin and JDA
     - [Module-Web](https://github.com/dajeo/Module-Web) - Frontend written in Vue.js and Vuetify
 - [HCWeb](https://github.com/dajeo/HCWeb) - Blog with account management and admin panel written in Java and Spring
     - [HCWeb.NET](https://github.com/dajeo/HCWeb.NET) - Rewritten HCWeb blog in C# and ASP.NET
