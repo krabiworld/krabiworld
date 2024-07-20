@@ -6,7 +6,7 @@ Hi, my name is Daniel. I'm a young backend developer. Develop high-load services
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=go,linux,bash,nginx,git,mysql,postgres,mongo,redis,kubernetes,docker,aws,firebase,cloudflare,github,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,linux,nginx,postgres,mongo,redis,docker,aws&perline=8" />
   </a>
 </p>
 
