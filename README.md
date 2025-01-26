@@ -1,6 +1,6 @@
 <h1 align="center">About me</h1>
 <p align="center">
-Hi, my name is Daniel. I'm a young DevOps Engineer.
+Hi, my name is Danil. I'm a young DevOps Engineer.
 </p>
 
 <h1 align="center">Skills</h1>
@@ -28,9 +28,4 @@ Hi, my name is Daniel. I'm a young DevOps Engineer.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krabiworld&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=6&hide=html,css&exclude_repo=reiodart,reiodart-demo,knight-ui,Discord-Chess" />
   </a>
-</p>
-
-<h1 align="center">Contact with me</h1>
-<p align="center">
-  <a href="https://t.me/krabiworld">Telegram</a>
 </p>
