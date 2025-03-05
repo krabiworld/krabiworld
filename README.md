@@ -12,8 +12,6 @@ Hi, my name is Danil. I'm a young DevOps Engineer.
 
 <h1 align="center">Projects</h1>
 
-- Eclipse - Multipurpose Discord bot written in JavaScript and discord.js
-    - [EclipseAndroid](https://github.com/krabiworld/EclipseAndroid) - Dashboard on Android written in Kotlin for multipurpose Discord bot
 - Knight - Chess social network
     - [knight](https://github.com/krabiworld/knight) - Backend written in Kotlin and Ktor
     - [knight-nest](https://github.com/krabiworld/knight-nest) - Rewritten backend in TypeScript and Nest.js
