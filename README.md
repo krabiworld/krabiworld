@@ -17,7 +17,6 @@ Hi, my name is Danil. I'm a young DevOps Engineer.
     - [knight-nest](https://github.com/krabiworld/knight-nest) - Rewritten backend in TypeScript and Nest.js
     - [knight-ui](https://github.com/krabiworld/knight-ui) - Frontend written in JavaScript and Svelte by [MineEjo](https://github.com/mineejo)
 - [Module](https://github.com/krabiworld/module) - Multipurpose Discord bot written in Java and JDA
-    - [module-web](https://github.com/krabiworld/module-web) - Frontend written in Vue.js and Vuetify
     - [lamarr](https://github.com/krabiworld/lamarr) - Rewritten bot in Go.
 - [HCWeb](https://github.com/krabiworld/HCWeb) - Blog with account management and admin panel written in Java and Spring
 
