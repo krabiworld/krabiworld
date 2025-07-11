@@ -12,10 +12,8 @@ Hi, my name is Krabi. I'm a DevOps Engineer.
 
 <h1 align="center">Projects</h1>
 
-- Knight - Chess social network
-    - [knight](https://github.com/krabiworld/knight) - Backend written in Kotlin and Ktor
+- [Knight](https://github.com/krabiworld/knight) - Chess social network written in Kotlin and Ktor
     - [knight-nest](https://github.com/krabiworld/knight-nest) - Rewritten backend in TypeScript and Nest.js
-    - [knight-ui](https://github.com/krabiworld/knight-ui) - Frontend written in JavaScript and Svelte by [MineEjo](https://github.com/mineejo)
 - [Module](https://github.com/krabiworld/module) - Multipurpose Discord bot written in Java and JDA
     - [lamarr](https://github.com/krabiworld/lamarr) - Rewritten bot in Go
 - [HCWeb](https://github.com/krabiworld/HCWeb) - Blog with account management and admin panel written in Java and Spring
