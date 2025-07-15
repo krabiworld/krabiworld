@@ -6,7 +6,7 @@ Hi, my name is Krabi. I'm a DevOps Engineer.
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img alt="icons" src="https://skillicons.dev/icons?i=linux,kubernetes,docker,nginx,postgres,mongo,redis,aws&perline=8" />
+    <img alt="icons" src="https://skillicons.dev/icons?i=linux,kubernetes,docker,gitlab,terraform,prometheus,postgres,aws&perline=8" />
   </a>
 </p>
 
