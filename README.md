@@ -22,6 +22,6 @@ Hi, my name is Krabi. I'm a DevOps Engineer.
 <h1 align="center">Stats</h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="stats" src="https://krabiworld.vercel.app/api/top-langs/?username=krabiworld&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=6&hide=html,css&exclude_repo=reiodart,reiodart-demo,knight-ui,discord-chess,naomi-jda,github-readme-stats" />
+    <img alt="stats" src="https://krabiworld.vercel.app/api/top-langs/?username=krabiworld&hide_title=true&card_width=445&hide_border=true&layout=compact&theme=github_dark&langs_count=6&hide=html,css&exclude_repo=reiodart,reiodart-demo,knight-ui,discord-chess,naomi-jda" />
   </a>
 </p>
