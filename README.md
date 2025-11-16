@@ -12,7 +12,7 @@ Hi, my name is Krabi. I'm a DevOps Engineer.
 
 <h1 align="center">Projects</h1>
 
-- [Webhook](https://github.com/krabiworld/webhook) - A lightweight GitHub webhook proxy for Discord.
+- [Gohook](https://github.com/krabiworld/gohook) - A lightweight GitHub webhook proxy for Discord.
 - [Knight](https://github.com/krabiworld/knight) - Chess social network written in Kotlin and Ktor.
     - [Knight Nest](https://github.com/krabiworld/knight-nest) - Rewritten backend in TypeScript and Nest.js.
 - [Module](https://github.com/krabiworld/module) - Multipurpose Discord bot written in Java and JDA.
